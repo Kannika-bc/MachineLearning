@@ -101,8 +101,6 @@ Learn patterns using an algorithm
 
 There are **4 major types of Machine Learning** you should understand first:
 
-[What is the definition and intuition behind PAC learning? | by Samiran Pal | FAQK like Socrates | Medium](https://images.openai.com/static-rsc-4/95ahm6Vt21OOuNatAr7fU7mQ3PiHbzm68sFvtRC_nXt3LiEhWtUQ233_ik1yhnJC8f6TJz_QnDMjMikADu616uswfFMa8s25xVEIX-u0tNJN7_fFF4bT-bED30qowerFnDJR9eWgvgvjuzmR_V7MD1ve0Kyje6eDtKynCnWu0VU?purpose=inline)
-
 **1. Supervised Learning**
 
 Learns from labeled data
@@ -110,8 +108,6 @@ Learns from labeled data
 Input data is provided along with the correct answers.
 
 Example: Predicting house prices, spam detection.
-
-[Discovering the Unknown: Clustering in Unsupervised Learning | by LoryneJoy | Medium](https://images.openai.com/static-rsc-4/Jkht1XsY0J2ZmRcnvrCocg2cecVpbc5T69_OTQ9oIjXR6nGlFk9kJ0Wal1upxMrEwnZvlN63wVlsaMiPhqtzGe47HFJCpW-cs5NaJ-RNoOnq-qQ49C-Izu9PGsxkjgiaM_0ywX_2ITJ7tWtpXkKYjBCK9LEvb4IPV6zn3_Q857g?purpose=inline)
 
 **2. Unsupervised Learning**
 
@@ -121,7 +117,6 @@ The model tries to discover patterns, groups or relationships in data without be
 
 Example: Customer segmentation.
 
-[Semi-Supervised Learning: The Bridge Between Supervised and Unsupervised Learning | by Dr. Fatih Hattatoglu | Academy Team | Medium](https://images.openai.com/static-rsc-4/l91Z8-IsIyUr9keQeRDglZLsfogEjl2DQqUIUfvA1tzDH9AnqcmJB13WTTO4opsxkanloPhLucjoZkRHpwFAxp9FoNho0ZQaghp8oJ0nt4v83WFxndg4hhDvQje9GK3alGDnYULrYZISpwPWJhao35vUvljHuRi7Ppm2kKoSBkI?purpose=inline)
 
 **3. Semi-Supervised Learning**
 
@@ -131,7 +126,6 @@ Uses a small amount of labeled data and a large amount of unlabeled data.
 
 Example: Image classification with only a few labeled images.
 
-[Reinforcement Learning: The Future of Intelligent Decision-Making](https://images.openai.com/static-rsc-4/_VWbANmsop6aEHFRrqu78ZlCEIHd_LJGfULKFY-JW9T9wu1MbGHMmRwcwkQoc8raFZ7GT6bfNlfET1if2inKHPY4DPw7jIDqzmXAwGXqufq2sJ8Dd7jRvUxGnRQogT2loHf233wdyX1DRwyYLxHofGyqrth0YUZPfAQTQo_BXJA?purpose=inline)
 
 **4. Reinforcement Learning**
 
@@ -171,14 +165,6 @@ The model may discover:
 
 The model discovers these groups based on similarities in the data.
 
-[How to use Data Science to better understand your customers](https://images.openai.com/static-rsc-4/oaskavKJgjH1pxubI9zy1r1gBl_WHSTGYrKW0hwNslwsoK8UF0fvbHErLApAa6pWz0zsd2QI8Hsrs32zUT1akdFTYCoghUd1IQ5-iw-D3vtd4EVTUmyZpPgz1wPszQ1UT_313wWSAJIKDLhWChksKGxA0GmNEtzwrq2Za8gqyOY?purpose=inline)
-
-[A Workflow for Segmenting Customers with Clustering](https://images.openai.com/static-rsc-4/RVWB1R6xNDgn2PBpY4_-aTbUbPyLCaL7nTdlIM6uFfw2V_G-coaYdNlFvhhcyezbt27eMytQqbgLHB1TCBt4Jlt2319G0nqp7zxAJC8Dvq7F2IFI7t8Tt_JjG4MpUVGDMAqqfaGqZsEyf7Hr3hPaYtxe03B4fKmEh5WodBb5XtI?purpose=inline)
-
-[Customer Segmentation and Analysis Project](https://images.openai.com/static-rsc-4/dsiC7yAB8YVS-fOSwDZTsmywl1Y9aF_yopGpnhXNkbLh6MUZeA3Cn1f6mmM3528L9BDcQqwk8jOifm-HP2SIUfvBLbSEKuWeHTKT3e3GztQTgMnrH47B9z2zQ-ux2egZMIuC6oBPL_vOlE7rhbhAHGZiu_x1etm2P1mHRCrvLfU?purpose=inline)
-
-6
-
 This process is called Clustering.
 
 ## **Types of Unsupervised Learning**
@@ -186,14 +172,6 @@ This process is called Clustering.
 There are several important approaches.
 
 ### **1. Clustering**
-
-[K-means and Hierarchical Clustering](https://images.openai.com/static-rsc-4/u3dehJyTM5Rh8h1uWXSWrc5tcV-pdsuqsxeSuI-laa7QQ8G29LMMNUvDtFgtg4D-xJX3hySuC9vhd-LTBYbBXGJifL9isZwL8BHEuUanmROTot-SJV8uWFlNgl491NuN9IyAJq1Hk3SkrtHInatT4pOKfDd3UDKncpQQ6J3H_jg?purpose=inline)
-
-[Display K-Means Cluster at Justin Northcote blog](https://images.openai.com/static-rsc-4/1UhhDcqj8jl6ZcCYys5F0PK4X3onkiZO0v9zfZuUutaQTwNZZgk0KGswugcKcGgw3bq9TvVODwz747Strh2nm3bC-pvSkK6Cre4G6vwkA_RXQ7KFvWIm7p47Rmh_g7DNAD-yXNMrzLVfaYSZJC88HQw0KHht0ecawxlsp3k_VOk?purpose=inline)
-
-[Machine Learning Algorithms Explained: Clustering - StrataScratch](https://images.openai.com/static-rsc-4/SdLwrsXP4R-nQ0Q8xMJDIW5KaVu_ItQrtKNoFbWDm6sQnGP8UYAsARNz_a4eehAdE_E9cf4juagE3B0tF2I6WJfr69pRCG6_AvapFzPIDTxG28fJqYpPaiRzpioG0Z00QE2C32kNlVtRIu2u6ytoWbIvs5g_SNbU1QKtsQU8SmM?purpose=inline)
-
-6
 
 Clustering means grouping similar data points together.
 
@@ -220,14 +198,6 @@ Common algorithms: K-Means, Hierarchical Clustering, DBSCAN.
 
 ### **2. Dimensionality Reduction**
 
-[Semantic Analysis of Moby-Dick with TF‑IDF | by Roblesjeison | Medium](https://images.openai.com/static-rsc-4/cMiaUZsrvBvrqjTIyG4YSDRj0G3lMnhJ6DxINkRKpXenkcO9PO-vZugRZFwrUPBHZSXek2chD8mmWZde0Tw7cuiQvwWRYgyTeeLEMHWcmL5RR6PM9QLvx91y3ZMqGrYgrwoW5Tqix9Sjid2REpFfsIOs7peEYOIfNxWjD1RXV4I?purpose=inline)
-
-[UMAP: The Fast, Powerful Technique Behind Modern Dimensionality Reduction | by Roshmita Dey | Medium](https://images.openai.com/static-rsc-4/XKzVtuflSiQ1LGSHqE_0L0jx9KDfbWs1LvgSgut5f-K_q748vkQHiQUZtfqwzy6FyYe-TtW3KdaCNSvsMzTqcYILMJCgvfIGMLKlQLn-eJktahrj8sv4IPbZFX68UtULnTSA3yJ7QDtnOqypfE6IQVHwHTx3k-9kCSpEIEunwMQ?purpose=inline)
-
-[Principal Component Analysis (PCA): Understanding High-Dimensional Data Through Projection](https://images.openai.com/static-rsc-4/FFhsXlsD_CB5Ql1MSW2q5qGGIph9eKPPAlFHI3Z8WnJuNLD4CWSPy00RB2JyaOC3zSj94tJmjdimb5ojb7mUj8a1X6-b27eidkBrUYisYrEU8fWd78ErqyScitGeQtd193l0VsVczF0I57SmPwQ8ng4podUoClNY4l61xlZ0lXU?purpose=inline)
-
-7
-
 Dimensionality reduction means reducing the number of features (columns) in a dataset while trying to preserve the most important information.
 
 Imagine a dataset containing 100 features.
@@ -251,14 +221,6 @@ Common algorithm: PCA (Principal Component Analysis).
 
 ### **3. Association Rule Learning**
 
-[Market Basket Analysis using Apriori Algorithm | by Dhaval Bagal | Medium](https://images.openai.com/static-rsc-4/5OblIyyF46IqXw7tV-F9I-74wwe-l_4_mgcpEkt34OxdzZapOa1iPqLbkbIIrTu_ve8qUAF2JWiY3mEQ-Cj0XnfP-iE8DOdByiw-xRrmvsGWI7ng1zzI2Y3-IWLb9eelelIXy0iSuIBj6pNgm6527m_y6XQnjY9GDqzMQ3XZ6PE?purpose=inline)
-
-[Conditional Probability Application: Association Rule Learning](https://images.openai.com/static-rsc-4/0II0gytflLYgBacXb8LAGWpQBksiuQLhtngTAMcXPs-oQwx0okWMFPV8LpJVRZRgOSdoHe6igtvZOEPc3xl9NV4HXKHpGpqGABEXu2L2JUvT1lH4dzSJjyjJgftX6X8AGLkXVFXApZstJ0y-eMIqd5Su7fsGyhe8g2BR8ebpSCs?purpose=inline)
-
-[PPT - MIS2502: Data Analytics Association Rule Mining PowerPoint Presentation - ID:2833458](https://images.openai.com/static-rsc-4/1hzVBdp8-gdfMnBAg1gcj-9iVvEM4dxAXKe6nYizlUH91YdX2FajvB66rv4QfpR15KoZsNIOhQYW7XcXdeb6tkIgOrCP3PiT4lIJwZO00pAL2lHn9poAGs5NqKpJHwFs6uZAP7Pezpjwmyz3qTVoK_zFde-UHYbfxNlL7IX-kPM?purpose=inline)
-
-9
-
 Association learning discovers relationships between items.
 
 **Example:**
@@ -279,14 +241,6 @@ This is also called **Market Basket Analysis**.
 Example application: Product recommendations.
 
 ### **4. Anomaly Detection**
-
-[5.3.4 Anomaly Detection | AI Roads](https://images.openai.com/static-rsc-4/dGxe5nj8VutITz_3DLkfSblTEv_RLMU08UFxsmzITmhMQMsJLg8C2JtNZHFtF1N-kjW8YTjktwNUE99lqVl42ZLPyf6EfMlGYUogrPGOzQFxu07VIbAOZu9qlf9vElXEP01pIV7S00r56LPOi4EIgHR3a4ZuJPehAbLFUk5fYh8?purpose=inline)
-
-[Medium](https://images.openai.com/static-rsc-4/vREeT4v5Ely7Fshq6Ugdm0K4s-DVVa2Bbsay8tuH3ZQYHYK6Sh1Qg7mviczv70pYTCrmEWzijIvtVvQ2ONI5COv3qS0HRR64sNqYVkPgJR3B6rYDA5vD-d87Q0W8S7Ukkc-cttuekZkU78gyeqyNpSHOJm8lpyzcCbY_dkuVRn0?purpose=inline)
-
-[Machine Learning Overview – CS 307 Notes](https://images.openai.com/static-rsc-4/PuzA8PURUe2A8RjqrsuK6cyMqWBlt00k2JvTOxKAMm0FVaXV8CEd50boLDLQPYR7tJgnouRawjrednr70zP5OT5002n4FmukA0DbfuJH28oMpRzyp72XKe18kQk7K1FgvStZQftG5B474w7Cp3MlT22Fb_R0O5lipksoittPv_E?purpose=inline)
-
-7
 
 Anomaly detection identifies data points that behave differently from normal data.
 
@@ -330,9 +284,6 @@ Imagine you have 10,000 images of animals.
 Labeling images manually requires time.
 
 Instead of labeling all 10,000 images, we label 500 images and use the unlabeled images to help the model learn additional patterns.
-
-[Deep Learning Exploiting Unlabeled Data Hungyi Lee Introduction](https://images.openai.com/static-rsc-4/sFpOLGA4uqbzYH_yNQ0gyDFJmA4QdiNxKhKc-dqPDlAmLZaGsnuCyYtviYnN-DMxRCJ6bzfF4yPAToSeuEKz7A-KXzl8Lg7GBUDyKGUOartdundv9GRbjh2tJhyP6ZsL0Q1nbgV6cDN5jVkOC5I6Jm0r065faGPhX-AaiifvJNY?purpose=inline)
-
 ### **How it works**
 
 **Small labeled dataset**
@@ -380,14 +331,6 @@ Imagine training a robot to walk.
 - If it falls → penalty.
 - It tries different actions.
 - Over time, it learns which actions help it walk successfully.
-
-[AI and ML](https://images.openai.com/static-rsc-4/FjMzDxLY3XXaAdKNkISmWIIbGZ0pLSx085_HjBvIoGPyqNT1bPvWcz7xKXIq2Ou8Y79Hk4imM6wKQumNfENHZAFvoew6E5X5Mk-l8AWO-Cd4tZCTxOTlh7Ip7ZTPOf4E51Ue5fyqZucNQMhXsJlxLYFVga6PtTcFAGHDGL_gc6c?purpose=inline)
-
-[Reinforcement Learning Made Clear: States, Rewards, and the Agent’s First Steps | by Nikhil Malkari | Medium](https://images.openai.com/static-rsc-4/CHahpaqOFMPes7Itwn_b_PwvPDnw79Sk9dikSQnmoRRzqTaEPIjfjKd7GO0nq3Ip-lRPKj2DW9nLL-yl39iogVn-lss6wZs0icGENLZiaY_L8f4etTYsfx2w6k6kMvzYBdb91VOyDyN1K1FDBWKl3dBoX1ZcPSMnP1hm3ThLTHU?purpose=inline)
-
-[AI learns to follow predefined norms through a combination of logic and machine learning](https://images.openai.com/static-rsc-4/PwghlMMeI6rISRIStgFEUmHWLJfrikiJAYRLH6V2GzMHpFyM-MPsqRDpx1s44tOIuGuBzsga2_jdngt_moSORYU84sSGfv02KwlqhhGIEpUZuve3YwIse9BbAA_CiIFbliZTDs3oo1h-BLvYi-k9PB0DVe18w_WrLNTl0zfp3h8?purpose=inline)
-
-7
 
 ## **Important terms in Reinforcement Learning**
 
